@@ -4,5 +4,3 @@ ENV EULA=TRUE
 
 EXPOSE 25565
 
-WORKDIR /minecraft
-
